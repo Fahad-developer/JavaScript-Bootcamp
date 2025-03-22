@@ -1,0 +1,21 @@
+- javascript and Classes
+- javascript is a prototype based language
+
+Object is a collection of properties and methods
+
+why use OOPS?
+
+Parts of OOPS
+
+1- object literal
+2- constructor function
+3- prototype
+4- class
+5- instance (new, this)
+
+4 pillars
+
+1- Abstraction
+2- Inheritance
+3- Polymorphism
+4- Encapsulation

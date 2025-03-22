@@ -1,0 +1,1 @@
+// new => jab bhi new lagta hai hamesha ek blank object apne man ma bana lo 
