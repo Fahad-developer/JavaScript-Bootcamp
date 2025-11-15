@@ -27,3 +27,10 @@ const hundreds = 100000
 console.log(Math.random()); // output values from 0 to 1.
 console.log((Math.random()*10) + 1);
 console.log(Math.floor(Math.random()*10) + 1);
+
+
+// with Hack
+
+let nums = [1, 2, 3, 4, 5, 6,  7, 8]
+
+console.log(Math.min(...nums))
