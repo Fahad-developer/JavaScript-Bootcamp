@@ -32,3 +32,19 @@ const url = "https://www.fahad.com/resume%20download"
 // console.log(url.split('/')); // return a new array after splitting
 
 
+// New Logic can be help full in web development
+
+let name = "rana-fahad"
+
+
+console.log(name)
+console.log(name.replace("-", "%"))
+const isInclude = name.includes("rana")
+
+if(isInclude) {
+    console.log("Yes it contains rana")
+} else {
+    console.log("No it did'nt contain rana")
+}
+
+
